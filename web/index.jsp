@@ -16,6 +16,7 @@
   <a href="http://localhost:8080/webAppTest_war_exploded/question.html">Question</a><br>
   <a href="http://localhost:8080/webAppTest_war_exploded/BBSS.html">BBSS</a><br>
   <a href="http://localhost:8080/webAppTest_war_exploded/Sesstion/customer.html">customer</a><br>
+  <a href="http://localhost:8080/webAppTest_war_exploded/MVC/circleInput.jsp">circleInput</a><br>
   $END$
   </body>
 </html>
