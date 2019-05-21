@@ -6,6 +6,7 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="webAppTest" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-java-8.0.16/mysql-connector-java-8.0.16.jar" />
         </element>
       </element>
     </root>
